@@ -2,7 +2,7 @@
 
 ## TODO
 
-- [ ] Deploy app (at vercel)
+- [x] Deploy app (at vercel)
 - [ ] Scaffold UI using mock data
 - [ ] Set up and attach DB (w/vercel pg)
 - [ ] Add auth (w/ Clerk)
